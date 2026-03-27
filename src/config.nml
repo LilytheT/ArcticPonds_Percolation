@@ -1,0 +1,7 @@
+&sim_config
+  L = 500.0,
+  r0 = 1.8,
+  rho_list = 0.1, 0.25, 0.31, 0.35, 0.4,
+  max_iterations = 2000000,
+  seed_base = 1011
+/
